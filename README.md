@@ -2,7 +2,7 @@
 
    ## Below is a description of the above restaurant and a report on recommendations for the restaurant following the analysis of the metrics as given in the project. 
 
-  Little Lemon is a family-owned Mediterranean restaurant. They are developing a MySQL database so that the bookings, customers,staff, menus and orders information can be stored in their respective tables.
+  Little Lemon is a family-owned Mediterranean restaurant.They are developing a MySQL database so that the bookings, customers,staff, menus and orders information can be stored in their respective tables.
   The restaurant owner wants to use the stored data to make data-driven decisions to increase their revenue. Establishing a database is one of their key objectives.
 
   The goal of the project is to build a MySQL database system for Little Lemon restaurant, allowing them to store data regarding:
